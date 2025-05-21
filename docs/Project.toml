@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+MyFirstPackage = "14eee9a3-be42-4cc6-95b1-14fbfb6925ea"
